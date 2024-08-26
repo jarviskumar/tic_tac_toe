@@ -1,2 +1,2 @@
-# tic_tac_toe
-A simple tic tac toe game by using HTML , CSS and JavaScript
+# Tic Tac Toe Game
+### A simple tic tac toe game by using ```HTML``` , ```CSS``` and ```JavaScript```
